@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(211, 211, 211);
+}
+
+h1,
+h4 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+li,
+p {
+    color: rgb(0, 38, 255);
+    font-family: Arial, San-serif;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+a:visited {
+    color: rgb(0, 38, 255)
+}
+
+ a.return {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 10px;
+}
+
+.cookies {
+    width: auto;
+    height: 512px;
+}
+ 
+.portuguese-sausage {
+    width: auto;
+    height: auto;
+}
+
+.spam-musubi {
+    width: auto;
+    height: 500px;
+}
+
